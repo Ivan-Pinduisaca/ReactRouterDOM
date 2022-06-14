@@ -2,6 +2,9 @@ import React from 'react'
 
 export const Articulos = () => {
   return (
-    <div>Articulos</div>
+    <div>
+      <h1>Página de Articulos</h1>
+      <p>Esta es la página de Articulos</p>
+    </div>
   )
 }
